@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167316219658161059/91d0869fbd254b8f894a7b6e8ae56f8f/artifacts
+end_time: 1738568019136
+entry_point_name: ''
+experiment_id: '167316219658161059'
+lifecycle_stage: active
+run_id: 91d0869fbd254b8f894a7b6e8ae56f8f
+run_name: KNN GridSearchCV Try 8
+run_uuid: 91d0869fbd254b8f894a7b6e8ae56f8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738567592228
+status: 4
+tags: []
+user_id: User
